@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.parking_icon{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.parking_text{
+    font-size: 33px;
+    margin-left: 14%;
+    margin-top: -45px;
+    color: #043d8a;
+}
+.top_logo{
+    margin-top: -6.5%;
+}
+.top_logo_M img {
+    width: 150px;
+    position: absolute;
+    margin-left: 88.6%;
+    margin-top: -35.8%;
+}
+.leftSlide img{
+    width: 570px;
+    height: 450px;
+    margin-left: 10%;
+    margin-top: -26%;
+}
+.rightSlide img{
+    width: 570px;
+    height: 450px;
+    margin-right: -15%;
+    margin-top: -26%;
+}
+.num1 img{
+    width: 20px;
+    position: relative;
+    margin-left: 76%;
+    margin-top: 30px;
+}
+.num2 img{
+    width: 40px;
+    margin-left: 3%;
+    margin-top: 30px;
+    
+}
+.num3 img{
+    width: 40px;
+    margin-left: 3%;
+    margin-top: 30px;
+    
+}
+.bottom_logo img{
+    margin-top: -33%;
+}
+.story1 {
+    float: left;
+    margin-left: 10%;
+    font-size: 20px;
+}
+.story2 {
+    float: left;
+    margin-left: 17.5%;
+    font-size: 20px;
+}
